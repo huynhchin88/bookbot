@@ -1,0 +1,7 @@
+#syntax:
+#(*) = wildcard
+#(/) = ignore pathnames relative to the .gitignore file
+#(#) = comments
+
+#ignore all raw txt data (books)
+*.txt
